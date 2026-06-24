@@ -1,0 +1,40 @@
+2026-06-24 21:47:07,902 - INFO - Programme started :
+2026-06-24 21:47:13,398 - INFO - 4.5,cpu ok
+2026-06-24 21:47:13,408 - ERROR - ram : 70.6,Failed to send Telegram message
+2026-06-24 21:47:13,408 - INFO - 94.6, disk ok
+2026-06-24 21:47:24,417 - INFO - 3.4,cpu ok
+2026-06-24 21:47:24,417 - WARNING - ram hight , alert already send
+2026-06-24 21:47:24,417 - INFO - 94.6, disk ok
+2026-06-24 21:47:35,427 - INFO - 9.3,cpu ok
+2026-06-24 21:47:35,427 - WARNING - ram hight , alert already send
+2026-06-24 21:47:35,427 - INFO - 94.6, disk ok
+2026-06-24 21:47:46,430 - ERROR - cpu : 14.8,Failed to send Telegram message
+2026-06-24 21:47:46,430 - WARNING - ram hight , alert already send
+2026-06-24 21:47:46,431 - INFO - 94.6, disk ok
+2026-06-24 21:47:57,435 - WARNING - cpu hight , alert already send
+2026-06-24 21:47:57,436 - WARNING - ram hight , alert already send
+2026-06-24 21:47:57,436 - INFO - 94.6, disk ok
+2026-06-24 21:48:08,443 - INFO - 7.0,cpu ok
+2026-06-24 21:48:08,443 - WARNING - ram hight , alert already send
+2026-06-24 21:48:08,443 - INFO - 94.6, disk ok
+2026-06-24 21:48:19,450 - INFO - 6.0,cpu ok
+2026-06-24 21:48:19,451 - WARNING - ram hight , alert already send
+2026-06-24 21:48:19,451 - INFO - 94.6, disk ok
+2026-06-24 21:48:30,461 - ERROR - cpu : 13.2,Failed to send Telegram message
+2026-06-24 21:48:30,461 - WARNING - ram hight , alert already send
+2026-06-24 21:48:30,461 - INFO - 94.7, disk ok
+2026-06-24 21:48:41,469 - WARNING - cpu hight , alert already send
+2026-06-24 21:48:41,469 - WARNING - ram hight , alert already send
+2026-06-24 21:48:41,469 - INFO - 94.7, disk ok
+2026-06-24 21:48:52,473 - WARNING - cpu hight , alert already send
+2026-06-24 21:48:52,473 - WARNING - ram hight , alert already send
+2026-06-24 21:48:52,473 - INFO - 94.7, disk ok
+2026-06-24 21:49:03,479 - WARNING - cpu hight , alert already send
+2026-06-24 21:49:03,479 - WARNING - ram hight , alert already send
+2026-06-24 21:49:03,479 - INFO - 94.7, disk ok
+2026-06-24 21:49:15,174 - WARNING - cpu hight , alert already send
+2026-06-24 21:49:15,175 - WARNING - ram hight , alert already send
+2026-06-24 21:49:15,175 - INFO - 94.6, disk ok
+2026-06-24 21:49:27,181 - INFO - 9.2,cpu ok
+2026-06-24 21:49:27,182 - WARNING - ram hight , alert already send
+2026-06-24 21:49:27,182 - INFO - 94.6, disk ok
